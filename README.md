@@ -1,4 +1,4 @@
-🌾 AgriShield – Empowering Farmers Through Assured Contract Farming
+🌾 AGRISHID – EMPOWERING FARMWERS THROUGHS ASSURED CONTRACT FARMING
 
 Team Name: VoidSeekers
 Event: Smart India Hackathon 2024
@@ -111,3 +111,4 @@ Open Government Data (India)
 👥 Team – VoidSeekers
 
 Smart, passionate innovators building AgriShield to empower farmers and revolutionize agriculture through technology, transparency, and trust.
+
